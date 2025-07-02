@@ -3,7 +3,11 @@ Projeto desenvolvido com P5.js para representar visualmente a força do vento, i
 
 # 🌪️ Rasengan: Representação da Força do Vento com P5.js
 
-Este projeto foi desenvolvido durante o meu primeiro semestre da faculdade de Ciências da Computação, sendo relacionada na disciplina **Projeto Integrador**, utilizando **P5.js** para representar visualmente a força do vento. A inspiração veio diretamente do anime *Naruto*, mais especificamente da técnica **Fūton: Rasengan**, que representa um movimento giratório e concentrado de ar — uma força invisível e intensa que afeta tudo ao redor.
+Este projeto foi desenvolvido durante o meu primeiro semestre da faculdade de Ciências da Computação, sendo relacionada na disciplina **Projeto Integrador**, utilizando **P5.js** para representar visualmente a força do vento. A inspiração veio diretamente do anime *Naruto*, mais especificamente da técnica **Fūton: Rasengan**, que representa um movimento giratório e concentrado de ar — uma força invisível e intensa que afeta tudo ao redor.  
+
+<p align="center">
+  <img src="img/Rasengan_img.jpg" alt="Demonstração do Rasengan" width="450">
+</p>
 
 ---
 
