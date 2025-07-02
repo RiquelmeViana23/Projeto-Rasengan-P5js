@@ -41,7 +41,7 @@ Durante o desenvolvimento, explorei os seguintes aspectos:
 
 ## 🚀 Como testar o projeto
 
-1. Acesse o [sketch](https://seu-link-aqui.com) para acessar o código fonte do projeto.
+1. Acesse o [sketch](https://github.com/RiquelmeViana23/Projeto-Rasengan-P5js/blob/main/src/sketch.js) para acessar o código fonte do projeto.
 2. Abra o [P5.js](https://p5js.org), clique em "Start Coding" e teste o código.
 3. Mova o cursor do mouse pela tela para interagir com o Rasengan.
 4. Pressione a tecla `R` para ativar a trilha sonora.
