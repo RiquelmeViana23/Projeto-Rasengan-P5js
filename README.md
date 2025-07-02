@@ -41,6 +41,11 @@ Durante o desenvolvimento, explorei os seguintes aspectos:
 - [P5.js](https://p5js.org/) – Biblioteca JavaScript para artes gráficas e interações criativas.
 - JavaScript – Para estrutura e funcionamento do sketch.
 - Música – Trilha sonora *The Rising Fighting Spirit*, do anime Naruto.
+
+<p align="center">
+  <img src="img/Codigo.png" alt="Demonstração de uma parte do código no P5.js" width="450">
+</p>
+
 ---
 
 ## 🚀 Como testar o projeto
